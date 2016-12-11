@@ -41,4 +41,7 @@ OurWorker.perform_in(5, "easy")
 
 ### Example 
 
-[sidekiq_playground](/Users/carmen/Work/workspaces/Learn/Ninja Code/Rails/Sidekiq/sidekiq_playground)
+[sidekiq_playground](https://github.com/carmen0208/trySidekiq/tree/master/sidekiq_playground)
+
+## [WebUi](doc/webui.md)
+
