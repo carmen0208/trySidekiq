@@ -1,5 +1,5 @@
-* Side Kiq will auto retry failed job,
-* Retry jobs can be config to not retry 
+* Sidekiq will auto retry failed job,
+* Retry jobs can be config to not retry
 
    ```ruby
    class OurWorker

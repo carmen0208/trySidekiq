@@ -39,9 +39,12 @@ OurWorker.perform_in(5, "easy")
 
 ```
 
-### Example 
+### Example
 
 [sidekiq_playground](https://github.com/carmen0208/trySidekiq/tree/master/sidekiq_playground)
 
-## [WebUi](doc/webui.md)
+#### [WebUi](doc/webui.md)
+#### [Error Handling](doc/error_handling.md)
+#### [Signals ](doc/signals.md)
 
+********
